@@ -1,0 +1,59 @@
+html, body {
+    background: url(just-waves.png);
+    height: 100%;
+}
+
+/* navbar styling */
+#navBar {
+    background-color: white;
+}
+
+#logo {
+    float: left;
+    position: relative;
+    margin-left: 8%;
+}
+
+#navLinks {
+    margin-top: 5px;
+    margin-right: 7%;
+}
+
+/* main content area */
+#contentArea {
+    margin-top: 30px;
+    background-color: white;
+    height: 450px;
+}
+
+#myPic {
+    float: left;
+    margin-right: 10px;
+}
+
+/* image gallery styling */
+#imgRow1 {
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+#imgRow2 {
+    margin-top: 10px;
+    margin-left: 1px;
+    padding-right: 30px;
+}
+
+.portTags {
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    background-color:#8eddff;
+}
+
+/* footer styling */
+#footer {
+    background-color: gray;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}
